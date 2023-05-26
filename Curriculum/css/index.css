@@ -1,0 +1,98 @@
+
+body{
+    background-color: #F9F7F7;
+}
+
+h1{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    color: #000000;
+}
+
+nav a:hover{
+    text-decoration: underline;
+    color: #3F72AF;
+}
+
+abbr[title]{
+    text-decoration: none;
+}
+
+figure{
+    margin-left: 5%;
+}
+
+#education a:last-of-type{
+    text-decoration: none;
+}
+
+#education a:last-of-type:visited{
+    color: #000000;
+}
+
+#education a:last-of-type:hover{
+    text-decoration: underline;
+    color: #3F72AF;
+}
+
+figure p{
+    display: inline-block;
+    width: 50%;
+    margin-left: 2em;
+}
+
+figure img{
+    display: inline-block;
+    width: 10vw;
+}
+
+.gpa{
+    margin-left: 5%;
+}
+
+/* courses section */
+#courses a{
+    text-decoration: none;
+}
+
+#courses a:visited {
+    color: #000000;
+}
+
+#courses a:hover{
+    text-decoration: underline;
+    color:#3F72AF
+}
+
+/* table styling  */
+thead tr{
+    background-color: #ffffff !important; 
+}
+
+tr:nth-child(odd){
+    background-color: #DBE2EF;
+}
+
+table caption{
+    background-color: #DBE2EF;
+}
+
+tr td:last-of-type{
+    text-align: center;
+}
+
+
+
+/* Colors 
+#F9F7F7
+#DBE2EF
+#3F72AF
+#112D4E
+*/
